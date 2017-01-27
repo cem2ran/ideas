@@ -19,3 +19,6 @@ One possible solution would be to hierarchically cluster web pages into relevant
 
 ## New tab; New search. Why not show relevant websites?
 An extension to the project would be to provide recommendations based on the users current session. Opening a new tab could provide a list of recommendations relevant to the session.
+
+### Glossary
+**Session -** A session refers to the grouping of semantically related web pages.
